@@ -5,7 +5,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-122.4194, 37.7749]  // San Francisco
+        "coordinates": [-122.4194, 37.7749] 
       },
       "properties": {
         "title": "Artist Residency SF",
@@ -17,7 +17,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-73.935242, 40.73061]  // NYC
+        "coordinates": [-73.935242, 40.73061]
       },
       "properties": {
         "title": "Grant in NYC",
