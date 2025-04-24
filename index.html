@@ -32,9 +32,11 @@
         const props = feature.properties;
 
         const popup = new mapboxgl.Popup({ offset: 25 }).setHTML(`
-  <h3>${props.title}</h3>
-  <p>${props.description}</p>
-  <a href="${props.url}" target="_blank">Learn More</a>
+  <div style="font-family: sans-serif; max-width: 250px;">
+    <h3 style="font-size: 18px; margin: 0 0 6px;">${props.title}</h3>
+    <p style="font-size: 14px; margin: 0 0 4px;"><strong>Type:</strong> ${props.description}</p>
+    <a href="${props.url}" target="_blank" style="font-size: 14px; color: #1e90ff; text-decoration: underline;">View Opportunity</a>
+  </div>
         `);
 
         new mapboxgl.Marker()
