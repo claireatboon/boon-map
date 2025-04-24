@@ -1,29 +1,31 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-122.4194, 37.7749] 
-      },
-      "properties": {
-        "title": "Artist Residency SF",
-        "description": "A two-week residency in San Francisco.",
-        "url": "https://example.com/residency-sf"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-73.935242, 40.73061]
-      },
-      "properties": {
-        "title": "Grant in NYC",
-        "description": "Funding opportunity for visual artists.",
-        "url": "https://example.com/grant-nyc"
-      }
-    }
-  ]
+  "features": [{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.0060728, 40.712675299999994]
+  },
+  "properties": {
+    "title": "AAA Test 4/11/25",
+    "Type of Opportunity": "Grants / Awards",
+    "url": <https://yoursbyclairewebb.com/>
+
+  }
+}
+,{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [-74.00605279999999, 40.7127153]
+  },
+  "properties": {
+    "title": "AAA Test 4/11/25 copy 2",
+    "Type of Opportunity": "Grants / Awards",
+    "url": <https://www.clairewebb.com/>
+
+
+  }
+}
+]
 }
