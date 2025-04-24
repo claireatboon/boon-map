@@ -4,7 +4,7 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ -110.7067355,]
+    "coordinates": [ -110.7067355]
   },
   "properties": {
     "title": "AAA Test 4/11/25",
@@ -15,7 +15,7 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ -123.0789594,]
+    "coordinates": [ -123.0789594]
   },
   "properties": {
     "title": "AAA Test 4/11/25 copy 2",
