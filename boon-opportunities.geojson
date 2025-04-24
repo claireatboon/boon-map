@@ -9,7 +9,7 @@
   "properties": {
     "title": "AAA Test 4/11/25",
     "Type of Opportunity": "Grants / Awards",
-    "url": https://yoursbyclairewebb.com/  }
+    "url": "https://yoursbyclairewebb.com/"  }
 }
 ,{
   "type": "Feature",
@@ -20,8 +20,8 @@
   "properties": {
     "title": "AAA Test 4/11/25 copy 2",
     "Type of Opportunity": "Grants / Awards",
-    "url": https://www.clairewebb.com/
-  }
+    "url": "https://www.clairewebb.com/
+"  }
 }
 ]
 }
