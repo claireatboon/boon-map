@@ -20,7 +20,7 @@
   "properties": {
     "title": "AAA TEST",
     "Type of Opportunity": "Museum",
-    "url": "www.boon.art"
+    "url": "https://www.boon.art"
   }
 },{
   "type": "Feature",
@@ -31,7 +31,7 @@
   "properties": {
     "title": "AAA TEST 2",
     "Type of Opportunity": "Gallery",
-    "url": "www.clairewebb.com"
+    "url": "https://www.clairewebb.com"
   }
 }]
 }
