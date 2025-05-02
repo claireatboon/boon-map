@@ -15,23 +15,23 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ -73.9524223, 40.7829293]
+    "coordinates": [ -123.0789594, 44.0362131]
   },
   "properties": {
     "title": "AAA TEST",
     "Type of Opportunity": "Museum",
-    "url": ""
+    "url": "www.boon.art"
   }
 },{
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ -73.9524223, 40.7829293]
+    "coordinates": [ -110.7067355, 31.9763193]
   },
   "properties": {
-    "title": "AAA TEST",
+    "title": "AAA TEST 2",
     "Type of Opportunity": "Gallery",
-    "url": ""
+    "url": "www.byclairewebb.com"
   }
 }]
 }
