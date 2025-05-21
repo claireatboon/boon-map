@@ -4,155 +4,12 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ ,  ]
+    "coordinates": [ 4.8564614, 52.3584938 ]
   },
   "properties": {
-    "title": "Artadia 21c Marciano Artadia Award",
-    "Type of Opportunity": "Grants / Awards",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ ,  ]
-  },
-  "properties": {
-    "title": "Artadia Atlanta",
-    "Type of Opportunity": "Grants / Awards",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ ,  ]
-  },
-  "properties": {
-    "title": "Artadia Boston",
-    "Type of Opportunity": "Grants / Awards",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ ,  ]
-  },
-  "properties": {
-    "title": "Artadia Chicago",
-    "Type of Opportunity": "Grants / Awards",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ ,  ]
-  },
-  "properties": {
-    "title": "Artadia Houston",
-    "Type of Opportunity": "Grants / Awards",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ ,  ]
-  },
-  "properties": {
-    "title": "Artadia Los Angeles",
-    "Type of Opportunity": "Grants / Awards",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ ,  ]
-  },
-  "properties": {
-    "title": "Artadia New York",
-    "Type of Opportunity": "Grants / Awards",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ ,  ]
-  },
-  "properties": {
-    "title": "Artadia San Francisco Bay",
-    "Type of Opportunity": "Grants / Awards",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ 6.6291043, 49.7678876 ]
-  },
-  "properties": {
-    "title": "Artist In Residence in Idar-Oberstein",
+    "title": "Françoise van den Bosch Foundation at Studio Rian de Jong",
     "Type of Opportunity": "Residencies",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ ,  ]
-  },
-  "properties": {
-    "title": "Artist Trust Arts Innovator Award",
-    "Type of Opportunity": "Grants / Awards",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ -122.2964235, 47.6087583 ]
-  },
-  "properties": {
-    "title": "Artist Trust Endurance Grants",
-    "Type of Opportunity": "Grants / Awards",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ ,  ]
-  },
-  "properties": {
-    "title": "Artist Trust Fellowship Awards",
-    "Type of Opportunity": "Grants / Awards",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ -76.6157389, 39.3115757 ]
-  },
-  "properties": {
-    "title": "Baltimore Jewelry Center",
-    "Type of Opportunity": "Residencies",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ -73.6814773, 41.988129 ]
-  },
-  "properties": {
-    "title": "ChaNorth",
-    "Type of Opportunity": "Residencies",
-    "url": ""
+    "url": "https://francoisevandenbosch.nl/en/category/residency-en/"
   }
 },{
   "type": "Feature",
@@ -163,128 +20,18 @@
   "properties": {
     "title": "Core Fellowship",
     "Type of Opportunity": "Residencies",
-    "url": ""
+    "url": "https://penland.org/residencies/core-fellowship/"
   }
 },{
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ -0.1154802, 51.4851768 ]
+    "coordinates": [ -76.6157389, 39.3115757 ]
   },
   "properties": {
-    "title": "Gasworks residency open call for artists based in Central America",
+    "title": "Baltimore Jewelry Center",
     "Type of Opportunity": "Residencies",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ -0.1154802, 51.4851768 ]
-  },
-  "properties": {
-    "title": "Gasworks residency open call for artists based in Vietnam",
-    "Type of Opportunity": "Residencies",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ ,  ]
-  },
-  "properties": {
-    "title": "Graduate Sweet Dreams Society",
-    "Type of Opportunity": "Residencies",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ -83.33618799999999, 9.2169531 ]
-  },
-  "properties": {
-    "title": "Hotel Belmar Artist Residency",
-    "Type of Opportunity": "Residencies",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ -72.3465883, 41.4936515 ]
-  },
-  "properties": {
-    "title": "I-Park",
-    "Type of Opportunity": "Residencies",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ -72.03331899999999, 41.2558025 ]
-  },
-  "properties": {
-    "title": "Lighthouse Works",
-    "Type of Opportunity": "Residencies",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ -83.9244892, 35.93558 ]
-  },
-  "properties": {
-    "title": "Loghaven Artist Residency",
-    "Type of Opportunity": "Residencies",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ -71.9549519, 42.8898243 ]
-  },
-  "properties": {
-    "title": "MacDowell Fellowship - Fall Winter",
-    "Type of Opportunity": "Residencies",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ -71.9549519, 42.8898243 ]
-  },
-  "properties": {
-    "title": "MacDowell Fellowship - Spring Summer",
-    "Type of Opportunity": "Residencies",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ -73.9819782, 40.7674407 ]
-  },
-  "properties": {
-    "title": "MAD Artist Studios-in-Residence",
-    "Type of Opportunity": "Residencies",
-    "url": ""
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ -84.4777264, 39.1287069 ]
-  },
-  "properties": {
-    "title": "Manifest Artist Residency",
-    "Type of Opportunity": "Residencies",
-    "url": ""
+    "url": "https://www.baltimorejewelrycenter.org/about-our-residency"
   }
 },{
   "type": "Feature",
@@ -295,7 +42,172 @@
   "properties": {
     "title": "Manifest Scholar in Residence",
     "Type of Opportunity": "Residencies",
-    "url": ""
+    "url": "https://www.manifestgallery.org/mar/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -84.4777264, 39.1287069 ]
+  },
+  "properties": {
+    "title": "Manifest Artist Residency",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.manifestgallery.org/mar/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -85.66347859999999, 37.9237933 ]
+  },
+  "properties": {
+    "title": "Bernheim’s Artist in Residence Program",
+    "Type of Opportunity": "Residencies",
+    "url": "https://bernheim.org/arts-in-nature/artist-in-residence/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -77.0572514, 42.1505471 ]
+  },
+  "properties": {
+    "title": "Burke Residency",
+    "Type of Opportunity": "Residencies",
+    "url": "https://glassmaking.cmog.org/opportunities/burke-prize-residency"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ 10.6787247, 56.20057929999999 ]
+  },
+  "properties": {
+    "title": "Malt Air",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.maltair.dk/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -72.03331899999999, 41.2558025 ]
+  },
+  "properties": {
+    "title": "Lighthouse Works",
+    "Type of Opportunity": "Residencies",
+    "url": "https://lighthouseworks.us/fellowship"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -94.79714969999999, 29.3053064 ]
+  },
+  "properties": {
+    "title": "Galveston",
+    "Type of Opportunity": "Residencies",
+    "url": "https://galvestonartistresidency.org/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -72.3465883, 41.4936515 ]
+  },
+  "properties": {
+    "title": "I-Park",
+    "Type of Opportunity": "Residencies",
+    "url": "http://www.i-park.org/2020grp"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -21.9552304, 64.0677965 ]
+  },
+  "properties": {
+    "title": "Hafnarborg ",
+    "Type of Opportunity": "Residencies",
+    "url": "https://hafnarborg.is/en/residency/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -95.3860784, 29.7307095 ]
+  },
+  "properties": {
+    "title": "HCCC",
+    "Type of Opportunity": "Residencies",
+    "url": "https://crafthouston.org/artists/residents/apply-to-program/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ 6.6291043, 49.7678876 ]
+  },
+  "properties": {
+    "title": "Artist In Residence in Idar-Oberstein",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.hochschule-trier.de/en/gestaltung/dept-of-gemstones-and-jewellery/made-in-io/artist-in-residence"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -83.9244892, 35.93558 ]
+  },
+  "properties": {
+    "title": "Loghaven Artist Residency",
+    "Type of Opportunity": "Residencies",
+    "url": "https://loghaven.org/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -0.1154802, 51.4851768 ]
+  },
+  "properties": {
+    "title": "Gasworks residency open call for artists based in Central America",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.gasworks.org.uk/opportunities/residency-open-call-for-artists-based-in-central-america-2024?utm_source=substack&utm_medium=email"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -0.1154802, 51.4851768 ]
+  },
+  "properties": {
+    "title": "Gasworks residency open call for artists based in Vietnam",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.gasworks.org.uk/opportunities/residency-open-call-for-artists-based-in-vietnam-2024?utm_source=substack&utm_medium=email"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -93.2369248, 44.9630359 ]
+  },
+  "properties": {
+    "title": "McKnight Fellowship for Ceramic Artists",
+    "Type of Opportunity": "Grants / Awards",
+    "url": "https://northernclaycenter.org/artist-services/grants-for-artists/mcknight-fellowships/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -95.8550923, 40.6741947 ]
+  },
+  "properties": {
+    "title": "Kimmel Harding Nelson Center for the Arts",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.khncenterforthearts.org/residency"
   }
 },{
   "type": "Feature",
@@ -306,18 +218,76 @@
   "properties": {
     "title": "NOLO Studios Residency",
     "Type of Opportunity": "Residencies",
-    "url": ""
+    "url": "https://www.nolostudiosbrooklyn.com/nolo-collective-residency
+
+https://www.instagram.com/nolostudiosbrooklyn/
+"
   }
 },{
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ ,  ]
+    "coordinates": [ -73.9819782, 40.7674407 ]
   },
   "properties": {
-    "title": "ONE + ONE",
+    "title": "MAD Artist Studios-in-Residence",
     "Type of Opportunity": "Residencies",
-    "url": ""
+    "url": "https://madmuseum.org/opportunities/become-mad-artist-residence"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -110.7067355, 31.9763193 ]
+  },
+  "properties": {
+    "title": "AAA Test 4/11/25",
+    "Type of Opportunity": "Grants / Awards",
+    "url": "https://yoursbyclairewebb.com/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -71.9549519, 42.8898243 ]
+  },
+  "properties": {
+    "title": "MacDowell Fellowship - Spring Summer",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.macdowell.org/apply/apply-for-fellowship"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -71.9549519, 42.8898243 ]
+  },
+  "properties": {
+    "title": "MacDowell Fellowship - Fall Winter",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.macdowell.org/apply/apply-for-fellowship"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -73.6814773, 41.988129 ]
+  },
+  "properties": {
+    "title": "ChaNorth",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.chanorth.com/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -83.33618799999999, 9.2169531 ]
+  },
+  "properties": {
+    "title": "Hotel Belmar Artist Residency",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.hotelbelmar.net/artist-residency"
   }
 },{
   "type": "Feature",
@@ -328,7 +298,7 @@
   "properties": {
     "title": "Yaddo - May to March Residency",
     "Type of Opportunity": "Residencies",
-    "url": ""
+    "url": "https://yaddo.org/apply/"
   }
 },{
   "type": "Feature",
@@ -339,7 +309,29 @@
   "properties": {
     "title": "Yaddo - Nov to June Residency",
     "Type of Opportunity": "Residencies",
-    "url": ""
+    "url": "https://yaddo.org/apply/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -122.2964235, 47.6087583 ]
+  },
+  "properties": {
+    "title": "Artist Trust Endurance Grants",
+    "Type of Opportunity": "Grants / Awards",
+    "url": "https://artisttrust.org/grants/endurance-grants/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -87.7103557, 43.7525533 ]
+  },
+  "properties": {
+    "title": "Kholer",
+    "Type of Opportunity": "Residencies",
+    "url": "https://artsindustry.org/applications/"
   }
 }]
 }
