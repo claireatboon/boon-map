@@ -4,23 +4,342 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ -110.7067355, 31.9763193 ]
+    "coordinates": [ ,  ]
   },
   "properties": {
-    "title": "AAA Test 4/11/25",
+    "title": "Artadia 21c Marciano Artadia Award",
     "Type of Opportunity": "Grants / Awards",
-    "url": "https://yoursbyclairewebb.com/"
+    "url": ""
   }
 },{
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ -123.0789594, 44.0362131 ]
+    "coordinates": [ ,  ]
   },
   "properties": {
-    "title": "AAA Test 4/11/25 copy 2",
+    "title": "Artadia Atlanta",
+    "Type of Opportunity": "Grants / Awards",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ ,  ]
+  },
+  "properties": {
+    "title": "Artadia Boston",
+    "Type of Opportunity": "Grants / Awards",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ ,  ]
+  },
+  "properties": {
+    "title": "Artadia Chicago",
+    "Type of Opportunity": "Grants / Awards",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ ,  ]
+  },
+  "properties": {
+    "title": "Artadia Houston",
+    "Type of Opportunity": "Grants / Awards",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ ,  ]
+  },
+  "properties": {
+    "title": "Artadia Los Angeles",
+    "Type of Opportunity": "Grants / Awards",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ ,  ]
+  },
+  "properties": {
+    "title": "Artadia New York",
+    "Type of Opportunity": "Grants / Awards",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ ,  ]
+  },
+  "properties": {
+    "title": "Artadia San Francisco Bay",
+    "Type of Opportunity": "Grants / Awards",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ 6.6291043, 49.7678876 ]
+  },
+  "properties": {
+    "title": "Artist In Residence in Idar-Oberstein",
     "Type of Opportunity": "Residencies",
-    "url": "https://www.clairewebb.com/"
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ ,  ]
+  },
+  "properties": {
+    "title": "Artist Trust Arts Innovator Award",
+    "Type of Opportunity": "Grants / Awards",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -122.2964235, 47.6087583 ]
+  },
+  "properties": {
+    "title": "Artist Trust Endurance Grants",
+    "Type of Opportunity": "Grants / Awards",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ ,  ]
+  },
+  "properties": {
+    "title": "Artist Trust Fellowship Awards",
+    "Type of Opportunity": "Grants / Awards",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -76.6157389, 39.3115757 ]
+  },
+  "properties": {
+    "title": "Baltimore Jewelry Center",
+    "Type of Opportunity": "Residencies",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -73.6814773, 41.988129 ]
+  },
+  "properties": {
+    "title": "ChaNorth",
+    "Type of Opportunity": "Residencies",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -82.1160195, 35.9446871 ]
+  },
+  "properties": {
+    "title": "Core Fellowship",
+    "Type of Opportunity": "Residencies",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -0.1154802, 51.4851768 ]
+  },
+  "properties": {
+    "title": "Gasworks residency open call for artists based in Central America",
+    "Type of Opportunity": "Residencies",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -0.1154802, 51.4851768 ]
+  },
+  "properties": {
+    "title": "Gasworks residency open call for artists based in Vietnam",
+    "Type of Opportunity": "Residencies",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ ,  ]
+  },
+  "properties": {
+    "title": "Graduate Sweet Dreams Society",
+    "Type of Opportunity": "Residencies",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -83.33618799999999, 9.2169531 ]
+  },
+  "properties": {
+    "title": "Hotel Belmar Artist Residency",
+    "Type of Opportunity": "Residencies",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -72.3465883, 41.4936515 ]
+  },
+  "properties": {
+    "title": "I-Park",
+    "Type of Opportunity": "Residencies",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -72.03331899999999, 41.2558025 ]
+  },
+  "properties": {
+    "title": "Lighthouse Works",
+    "Type of Opportunity": "Residencies",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -83.9244892, 35.93558 ]
+  },
+  "properties": {
+    "title": "Loghaven Artist Residency",
+    "Type of Opportunity": "Residencies",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -71.9549519, 42.8898243 ]
+  },
+  "properties": {
+    "title": "MacDowell Fellowship - Fall Winter",
+    "Type of Opportunity": "Residencies",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -71.9549519, 42.8898243 ]
+  },
+  "properties": {
+    "title": "MacDowell Fellowship - Spring Summer",
+    "Type of Opportunity": "Residencies",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -73.9819782, 40.7674407 ]
+  },
+  "properties": {
+    "title": "MAD Artist Studios-in-Residence",
+    "Type of Opportunity": "Residencies",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -84.4777264, 39.1287069 ]
+  },
+  "properties": {
+    "title": "Manifest Artist Residency",
+    "Type of Opportunity": "Residencies",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -84.4777264, 39.1287069 ]
+  },
+  "properties": {
+    "title": "Manifest Scholar in Residence",
+    "Type of Opportunity": "Residencies",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -73.9297004, 40.7076404 ]
+  },
+  "properties": {
+    "title": "NOLO Studios Residency",
+    "Type of Opportunity": "Residencies",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ ,  ]
+  },
+  "properties": {
+    "title": "ONE + ONE",
+    "Type of Opportunity": "Residencies",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -73.7616461, 43.07315130000001 ]
+  },
+  "properties": {
+    "title": "Yaddo - May to March Residency",
+    "Type of Opportunity": "Residencies",
+    "url": ""
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -73.7616461, 43.07315130000001 ]
+  },
+  "properties": {
+    "title": "Yaddo - Nov to June Residency",
+    "Type of Opportunity": "Residencies",
+    "url": ""
   }
 }]
 }
