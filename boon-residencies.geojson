@@ -1,0 +1,191 @@
+{
+  "type": "FeatureCollection",
+  "features": [{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ 4.8564614, 52.3584938 ]
+  },
+  "properties": {
+    "title": "Françoise van den Bosch Foundation at Studio Rian de Jong",
+    "Type of Opportunity": "Residencies",
+    "url": "https://francoisevandenbosch.nl/en/category/residency-en/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -82.1160195, 35.9446871 ]
+  },
+  "properties": {
+    "title": "Core Fellowship",
+    "Type of Opportunity": "Residencies",
+    "url": "https://penland.org/residencies/core-fellowship/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -76.61837369999999, 39.2858505 ]
+  },
+  "properties": {
+    "title": "American Craft Made Baltimore",
+    "Type of Opportunity": "Exhibition Open Calls",
+    "url": "https://craftcouncil.org/2026-american-craft-made-application/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -96.4657766, 32.0964452 ]
+  },
+  "properties": {
+    "title": "Corsicana Artist and Writer Residency",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.corsicanaresidency.org/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ 10.6787247, 56.20057929999999 ]
+  },
+  "properties": {
+    "title": "Malt Air Residency",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.maltair.dk/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ 135.4173402, 34.7825386 ]
+  },
+  "properties": {
+    "title": "ITAMI International Jewellery Exhibition",
+    "Type of Opportunity": "Exhibition Open Calls",
+    "url": "https://itami-im.jp/craftexhibition/overseas-residents/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -83.9244892, 35.93558 ]
+  },
+  "properties": {
+    "title": "Loghaven Artist Residency",
+    "Type of Opportunity": "Residencies",
+    "url": "https://loghaven.org/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -93.2369248, 44.9630359 ]
+  },
+  "properties": {
+    "title": "McKnight Fellowship for Ceramic Artists",
+    "Type of Opportunity": "Grants / Awards",
+    "url": "https://northernclaycenter.org/artist-services/grants-for-artists/mcknight-fellowships/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -95.8550923, 40.6741947 ]
+  },
+  "properties": {
+    "title": "Kimmel Harding Nelson Center for the Arts",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.khncenterforthearts.org/residency"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -73.9524223, 40.7829293 ]
+  },
+  "properties": {
+    "title": "92NY’s International Jewelry Artist Residency",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.92ny.org/culture-arts/school-of-the-arts/art-center/jewelry-center/jewelry-residency"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -71.9549519, 42.8898243 ]
+  },
+  "properties": {
+    "title": "MacDowell Fellowship - Spring Summer",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.macdowell.org/apply/apply-for-fellowship"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -71.9549519, 42.8898243 ]
+  },
+  "properties": {
+    "title": "MacDowell Fellowship - Fall Winter",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.macdowell.org/apply/apply-for-fellowship"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -75.16264290000001, 39.9551235 ]
+  },
+  "properties": {
+    "title": "Philadelphia Museum of Art Contemporary Craft Show Call for Applications",
+    "Type of Opportunity": "Exhibition Open Calls",
+    "url": "https://www.pmacraftshow.org/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -83.33618799999999, 9.2169531 ]
+  },
+  "properties": {
+    "title": "Hotel Belmar Artist Residency",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.hotelbelmar.net/artist-residency"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -73.7616461, 43.07315130000001 ]
+  },
+  "properties": {
+    "title": "Yaddo - May to March Residency",
+    "Type of Opportunity": "Residencies",
+    "url": "https://yaddo.org/apply/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -73.7616461, 43.07315130000001 ]
+  },
+  "properties": {
+    "title": "Yaddo - Nov to June Residency",
+    "Type of Opportunity": "Residencies",
+    "url": "https://yaddo.org/apply/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -122.2964235, 47.6087583 ]
+  },
+  "properties": {
+    "title": "Artist Trust Endurance Grants",
+    "Type of Opportunity": "Grants / Awards",
+    "url": "https://artisttrust.org/grants/endurance-grants/"
+  }
+}]
+}
