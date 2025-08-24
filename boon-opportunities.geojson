@@ -4,23 +4,12 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ 4.8564614, 52.3584938 ]
+    "coordinates": [ -75.16264290000001, 39.9551235 ]
   },
   "properties": {
-    "title": "Françoise van den Bosch Foundation at Studio Rian de Jong",
-    "Type of Opportunity": "Residencies",
-    "url": "https://francoisevandenbosch.nl/en/category/residency-en/"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ -82.1160195, 35.9446871 ]
-  },
-  "properties": {
-    "title": "Core Fellowship",
-    "Type of Opportunity": "Residencies",
-    "url": "https://penland.org/residencies/core-fellowship/"
+    "title": "Philadelphia Museum of Art Contemporary Craft Show Call for Applications",
+    "Type of Opportunity": "Exhibition Open Calls",
+    "url": "https://www.pmacraftshow.org/"
   }
 },{
   "type": "Feature",
@@ -37,28 +26,6 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ -96.4657766, 32.0964452 ]
-  },
-  "properties": {
-    "title": "Corsicana Artist and Writer Residency",
-    "Type of Opportunity": "Residencies",
-    "url": "https://www.corsicanaresidency.org/"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
-    "coordinates": [ 10.6787247, 56.20057929999999 ]
-  },
-  "properties": {
-    "title": "Malt Air Residency",
-    "Type of Opportunity": "Residencies",
-    "url": "https://www.maltair.dk/"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
     "coordinates": [ 135.4173402, 34.7825386 ]
   },
   "properties": {
@@ -70,12 +37,12 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ -83.9244892, 35.93558 ]
+    "coordinates": [ -122.2964235, 47.6087583 ]
   },
   "properties": {
-    "title": "Loghaven Artist Residency",
-    "Type of Opportunity": "Residencies",
-    "url": "https://loghaven.org/"
+    "title": "Artist Trust Endurance Grants",
+    "Type of Opportunity": "Grants / Awards",
+    "url": "https://artisttrust.org/grants/endurance-grants/"
   }
 },{
   "type": "Feature",
@@ -92,17 +59,6 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ -95.8550923, 40.6741947 ]
-  },
-  "properties": {
-    "title": "Kimmel Harding Nelson Center for the Arts",
-    "Type of Opportunity": "Residencies",
-    "url": "https://www.khncenterforthearts.org/residency"
-  }
-},{
-  "type": "Feature",
-  "geometry": {
-    "type": "Point",
     "coordinates": [ -73.9524223, 40.7829293 ]
   },
   "properties": {
@@ -114,45 +70,67 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ -71.9549519, 42.8898243 ]
+    "coordinates": [ 10.6787247, 56.20057929999999 ]
   },
   "properties": {
-    "title": "MacDowell Fellowship - Spring Summer",
+    "title": "Malt Air Residency",
     "Type of Opportunity": "Residencies",
-    "url": "https://www.macdowell.org/apply/apply-for-fellowship"
+    "url": "https://www.maltair.dk/"
   }
 },{
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ -71.9549519, 42.8898243 ]
+    "coordinates": [ 4.8564614, 52.3584938 ]
   },
   "properties": {
-    "title": "MacDowell Fellowship - Fall Winter",
+    "title": "Françoise van den Bosch Foundation at Studio Rian de Jong",
     "Type of Opportunity": "Residencies",
-    "url": "https://www.macdowell.org/apply/apply-for-fellowship"
+    "url": "https://francoisevandenbosch.nl/en/category/residency-en/"
   }
 },{
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ -75.16264290000001, 39.9551235 ]
+    "coordinates": [ -95.8550923, 40.6741947 ]
   },
   "properties": {
-    "title": "Philadelphia Museum of Art Contemporary Craft Show Call for Applications",
-    "Type of Opportunity": "Exhibition Open Calls",
-    "url": "https://www.pmacraftshow.org/"
+    "title": "Kimmel Harding Nelson Center for the Arts",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.khncenterforthearts.org/residency"
   }
 },{
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ -83.33618799999999, 9.2169531 ]
+    "coordinates": [ -83.9244892, 35.93558 ]
   },
   "properties": {
-    "title": "Hotel Belmar Artist Residency",
+    "title": "Loghaven Artist Residency",
     "Type of Opportunity": "Residencies",
-    "url": "https://www.hotelbelmar.net/artist-residency"
+    "url": "https://loghaven.org/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -82.1160195, 35.9446871 ]
+  },
+  "properties": {
+    "title": "Core Fellowship",
+    "Type of Opportunity": "Residencies",
+    "url": "https://penland.org/residencies/core-fellowship/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -96.4657766, 32.0964452 ]
+  },
+  "properties": {
+    "title": "Corsicana Artist and Writer Residency",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.corsicanaresidency.org/"
   }
 },{
   "type": "Feature",
@@ -180,12 +158,34 @@
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ -122.2964235, 47.6087583 ]
+    "coordinates": [ -71.9549519, 42.8898243 ]
   },
   "properties": {
-    "title": "Artist Trust Endurance Grants",
-    "Type of Opportunity": "Grants / Awards",
-    "url": "https://artisttrust.org/grants/endurance-grants/"
+    "title": "MacDowell Fellowship - Spring Summer",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.macdowell.org/apply/apply-for-fellowship"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -71.9549519, 42.8898243 ]
+  },
+  "properties": {
+    "title": "MacDowell Fellowship - Fall Winter",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.macdowell.org/apply/apply-for-fellowship"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -83.33618799999999, 9.2169531 ]
+  },
+  "properties": {
+    "title": "Hotel Belmar Artist Residency",
+    "Type of Opportunity": "Residencies",
+    "url": "https://www.hotelbelmar.net/artist-residency"
   }
 }]
 }
