@@ -8,30 +8,228 @@
   },
   "properties": {
     "title": "92Y (92nd St. Y)",
-    "Type of Opportunity": "Organization",
+    "Type of Opportunity": "Cultural Institution",
     "url": "https://www.92y.org/"
   }
 },{
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ -123.0789594, 44.0362131]
+    "coordinates": [ -75.1169585, 40.0922566]
   },
   "properties": {
-    "title": "AAA TEST",
-    "Type of Opportunity": "Museum",
-    "url": "https://www.boon.art"
+    "title": "Abington Art Center",
+    "Type of Opportunity": "Cultural Institution",
+    "url": "https://abingtonartcenter.org/"
   }
 },{
   "type": "Feature",
   "geometry": {
     "type": "Point",
-    "coordinates": [ -110.7067355, 31.9763193]
+    "coordinates": [ -0.1163693, 51.5216467]
   },
   "properties": {
-    "title": "AAA TEST 2",
+    "title": "ACJ (Association for Contemporary Jewellery",
+    "Type of Opportunity": "Organization",
+    "url": "https://acj.org.uk/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -75.13915759999999, 38.77601720000001]
+  },
+  "properties": {
+    "title": "Heidi Lowe Gallery",
     "Type of Opportunity": "Gallery",
-    "url": "https://www.clairewebb.com"
+    "url": "https://heidilowegallery.com/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ 2.3380482, 48.85528069999999]
+  },
+  "properties": {
+    "title": "La Joaillerie Par Mazlo",
+    "Type of Opportunity": "Gallery",
+    "url": "https://www.la-joaillerie-par-mazlo.fr/en/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -79.0923892, 40.0064986]
+  },
+  "properties": {
+    "title": "Guild of American Papercutters",
+    "Type of Opportunity": "Organization",
+    "url": "https://papercutters.org/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -123.0909605, 44.0453523]
+  },
+  "properties": {
+    "title": "Fuse Jewelry Collective",
+    "Type of Opportunity": "Community School",
+    "url": "https://www.fusejewelrycollective.com/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -75.16299219999999, 39.9493245]
+  },
+  "properties": {
+    "title": "CraftNOW Philadelphia",
+    "Type of Opportunity": "Organization",
+    "url": "https://www.craftnowphila.org/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -110.8956056, 32.26544750000001]
+  },
+  "properties": {
+    "title": "The Mini Time Machine Museum of Miniatures",
+    "Type of Opportunity": "Museum",
+    "url": "https://theminitimemachine.org/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -99.18550340000002, 19.4090038]
+  },
+  "properties": {
+    "title": "MASA",
+    "Type of Opportunity": "Gallery",
+    "url": "https://mmaassaa.com/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -73.9928905, 40.7223376]
+  },
+  "properties": {
+    "title": "Rhizome",
+    "Type of Opportunity": "Organization",
+    "url": "https://rhizome.org/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -73.9929129, 40.7223726]
+  },
+  "properties": {
+    "title": "New Museum",
+    "Type of Opportunity": "Museum",
+    "url": "https://newmuseum.org/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -73.9639134, 40.6915763]
+  },
+  "properties": {
+    "title": "Franklin Furnace",
+    "Type of Opportunity": "Organization",
+    "url": "https://franklinfurnace.org/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -121.5152424, 38.6185019]
+  },
+  "properties": {
+    "title": "California Arts Council",
+    "Type of Opportunity": "Organization",
+    "url": "https://arts.ca.gov/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -75.1398717, 39.9732681]
+  },
+  "properties": {
+    "title": "The Clay Studio",
+    "Type of Opportunity": "Community Studio +",
+    "url": "https://www.theclaystudio.org/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -116.7468481, 33.7337278]
+  },
+  "properties": {
+    "title": "Idyllwild Arts",
+    "Type of Opportunity": "Community School",
+    "url": "https://idyllwildarts.org/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -95.3967019, 29.8258224]
+  },
+  "properties": {
+    "title": "Third Coast Clay",
+    "Type of Opportunity": "Community Studio +",
+    "url": "https://www.3rdcoastclay.com/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ 20.4385905, 42.3726786]
+  },
+  "properties": {
+    "title": "Robert Deda Jewelry Academy",
+    "Type of Opportunity": "Community School",
+    "url": "https://robertdedajewelryacademy.com/index"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ 2.3411072, 48.871998]
+  },
+  "properties": {
+    "title": "L’ÉCOLE School of Jewelry Arts",
+    "Type of Opportunity": "Community School",
+    "url": "https://www.lecolevancleefarpels.com/fr/en"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -81.6962029, 30.3195808]
+  },
+  "properties": {
+    "title": "Cork Arts District ",
+    "Type of Opportunity": "Community Studio +",
+    "url": "https://corkartsdistrict.com/"
+  }
+},{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [ -81.0580974, 29.328199]
+  },
+  "properties": {
+    "title": "Dear God Are We There Yet",
+    "Type of Opportunity": "",
+    "url": "https://www.deargodarewethereyet.com/"
   }
 }]
 }
